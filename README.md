@@ -6,6 +6,20 @@ Plataforma de e-commerce completa com autenticação, carrinho de compras e paga
 
 🌐 [ecommerce-phi-nine-21.vercel.app](https://ecommerce-phi-nine-21.vercel.app)
 
+## 📸 Screenshots
+
+### Página Inicial
+![Home](./screenshots/Paginainicial.png)
+
+### Carrinho
+![Carrinho](./screenshots/Carrinho.png)
+
+### Pagamento MercadoPago
+![Pagamento](./screenshots/Checkout.png)
+
+### Pedidos
+![Pedidos](./screenshots/Pedidos.png)
+
 ## 🛠️ Tecnologias
 
 **Frontend**
